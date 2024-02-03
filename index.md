@@ -30,4 +30,4 @@ excerpt: "Now she has a dedicated fan club."
 ```
 
 
-> Fun Fact, She's also very cute and pretty
+> Fun Fact, She's also very cute
