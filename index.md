@@ -6,6 +6,7 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Now she has a dedicated fan club."
 ---
+```
         ❤️❤️❤️❤️❤️❤️                           ❤️❤️❤️❤️❤️❤️
       ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️                   ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
     ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️           ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
@@ -26,3 +27,4 @@ excerpt: "Now she has a dedicated fan club."
                 ❤️❤️❤️❤️❤️❤️❤️
                   ❤️❤️❤️
                    ❤️
+```
