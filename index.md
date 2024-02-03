@@ -1,5 +1,5 @@
 ---
-title: Fanclub
+title: She's so nice
 feature_text: |
   ## Sarah
   A gorgeous girl with a pretty smile 
@@ -28,3 +28,6 @@ excerpt: "Now she has a dedicated fan club."
                            ❤️❤️❤️
                              ❤️
 ```
+
+
+> Fun Fact, She's also very cute and pretty
